@@ -1,0 +1,13 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="The_costomerOrders_table.controller.Detail"
+	xmlns:html="http://www.w3.org/1999/xhtml">
+	<Page title="{i18n>DetailTitle}">
+	<ObjectHeader title="{CustomerID}">
+             
+    <attributes>
+		<ObjectAttribute text="Orders #{OrderID}" />
+		<ObjectAttribute text="Customers #{CustomerID}" />
+	</attributes>
+</ObjectHeader>
+
+	</Page>
+</mvc:View>
