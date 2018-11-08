@@ -1,0 +1,13 @@
+Here, i created SAPUI5 application for my assignment, 
+  first, create account in sapui5 cloud (cockpit) and then click the neo environment,
+  second, creating Destination for odata source (snapshot added).
+  third, enabling ODATASERVICE  and include the northwind.svc table in our application.
+  
+  creating new page using ROUTING concept and initialize the code in component.js
+  (Every file were Added in this account)
+  
+  ...
+  ...
+  ...
+  .......
+	
